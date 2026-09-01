@@ -1,0 +1,1001 @@
+{
+    "Acheron": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3000 or above\n <a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 160% or above\n <a:hastag:1526584349896736879> SPD : 101 or 135+",
+        "body": "CR >= CD",
+        "feet": "ATK% > Speed",
+        "planar sphere": "ATK% >= DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Pioneer Diver of Dead Waters (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Izumo Gensei and Takam Divine Realm\n <a:hastag:1526584349896736879> Takama Divine Realm",
+        "lightcone": "<a:hastag:1526584349896736879> Along the Passing Shore (signature)\n <a:hastag:1526584349896736879> Boundless Choreo\n <a:hastag:1526584349896736879> Good Night and Sleep Well\n <a:hastag:1526584349896736879> Incessant Rain (SW's Sign)",
+        "trace": "Ultimate > Skill = Talent > Basic"
+    }
+    ,"Aglaea": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2100 or above\n <a:hastag:1526584349896736879> CR : 80% or above (Try to get 100% at combat)\n <a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : 134 or 135 , 1 SPD above Sunday , any SPD Breakpoint ",
+        "body": "CR = CD",
+        "feet": "ATK% = Speed",
+        "planar sphere": "DMG Bonus",
+        "link rope": " ER > ATK%",
+        "relic": "<a:hastag:1526584349896736879> Hero of Triumphant Song (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> The Wondrous BananAmusement Park",
+        "lightcone": "<a:hastag:1526584349896736879> Time Woven Into Gold (Signature)\n <a:hastag:1526584349896736879> Sweat Now, Cry Less",
+        "trace": "Basic = Ultimate = Memo Skill = Memo Talent > Talent > Skill"
+    }
+    ,"Anaxa": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2600 or above\n <a:hastag:1526584349896736879> CR : 80% or above (Try to get 100% at combat)\n <a:hastag:1526584349896736879> CD : 110% or above\n <a:hastag:1526584349896736879> SPD : 134 or 135, any SPD Breakpoint ",
+        "body": "CR = CD",
+        "feet": "Speed",
+        "planar sphere": "ATK% = DMG Bonus",
+        "link rope": " ATK% >= ER",
+        "relic": "<a:hastag:1526584349896736879> As Navigator Isee Sees it (4pc) as Hypercarry\n <a:hastag:1526584349896736879> Eagle of Twilight Line  (4pc) with The Herta",
+        "ornament": "<a:hastag:1526584349896736879> Rutilant Arena (Flex Team)\n <a:hastag:1526584349896736879> Izumo Gensei and Takama Divine Realm (Flex Team)\n <a:hastag:1526584349896736879> Takama Divine Realm (2 Erudition characters)",
+        "lightcone": "<a:hastag:1526584349896736879> Life Should Be Cast to Flames (Signature)\n <a:hastag:1526584349896736879> The Great Cosmic Enterprise\n <a:hastag:1526584349896736879> Today Is Another Peaceful Day",
+        "trace": "Skill > Ultimate > Talent > Basic"
+    }
+    ,"Archer": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2600 or above\n <a:hastag:1526584349896736879> CR : as close to 100% at combat)\n <a:hastag:1526584349896736879> CD : 130% or above\n <a:hastag:1526584349896736879> SPD : Base Speed ",
+        "body": "CR",
+        "feet": "ATK%",
+        "planar sphere": "ATK% = DMG Bonus",
+        "link rope": " ATK%",
+        "relic": "<a:hastag:1526584349896736879> As Navigator Isee Sees it (4pc)\n <a:hastag:1526584349896736879> Genius of Brilliant Stars (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Tengoku Livestream\n <a:hastag:1526584349896736879> Rutilant Arena ",
+        "lightcone": "<a:hastag:1526584349896736879> The Hell Where Ideals Burn (Signature)\n <a:hastag:1526584349896736879> Cruising in the Stellar Sea\n <a:hastag:1526584349896736879> See You at the End",
+        "trace": "Skill > Ultimate > Talent > Basic"
+    }
+    ,"Argenti": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n <a:hastag:1526584349896736879> CR : 65% or above)\n <a:hastag:1526584349896736879> CD : 150% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134/135 ",
+        "body": "CR = CD",
+        "feet": "ATK% = SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": " ATK%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)\n <a:hastag:1526584349896736879> Wavestrider Captain  (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Inert Salsotto\n <a:hastag:1526584349896736879> Sigonia, the Unclaimed Desolation ",
+        "lightcone": "<a:hastag:1526584349896736879> An Instant Before A Gaze (Signature)\n <a:hastag:1526584349896736879> Today Is Another Peaceful Day\n <a:hastag:1526584349896736879> Eternal Calculus",
+        "trace": "Ultimate > Skill = Talent > Basic"
+    }
+    ,"Arlan": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n <a:hastag:1526584349896736879> CR : 65% or above)\n <a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : 134/135, any SPD Breakpoint ",
+        "body": "CR = CD",
+        "feet": "ATK% = SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": " ATK%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)\n <a:hastag:1526584349896736879> Band of Sizzling Thunder  (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Firmanent Frontline: Glamoth\n <a:hastag:1526584349896736879> Rutilant Arena\n <a:hastag:1526584349896736879> Space Sealing Station ",
+        "lightcone": "<a:hastag:1526584349896736879> An Instant Before A Gaze (Signature)\n <a:hastag:1526584349896736879> Today Is Another Peaceful Day\n <a:hastag:1526584349896736879> Eternal Calculus",
+        "trace": "Skill > Ultimate = Talent > Basic"
+    }
+    ,"Ashveil": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3000 or above\n <a:hastag:1526584349896736879> CR : as close to 100% at combat)\n <a:hastag:1526584349896736879> CD : 140% or above\n <a:hastag:1526584349896736879> SPD : Base Speed or 134/135 as Sub DPS\n <a:hastag:1526584349896736879> ERR : Base or 19.4% at PF",
+        "body": "CR",
+        "feet": "ATK% >= SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": " ATK% > ERR",
+        "relic": "<a:hastag:1526584349896736879> The Ashblazing Grand Duke (4pc)\n <a:hastag:1526584349896736879> Pioneer Diver of Dead Waters  (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> City of Converging Stars\n <a:hastag:1526584349896736879> Duran, Dynasty of Running Wolves ",
+        "lightcone": "<a:hastag:1526584349896736879> The Finale of a Lie (Signature)\n <a:hastag:1526584349896736879> Cruising in the Stellar Sea\n <a:hastag:1526584349896736879> See You at the End",
+        "trace": "Talent > Skill = Ultimate > Basic"
+    }
+    ,"Asta": {
+        "stats": "<a:hastag:1526584349896736879> SPD : 134/143 or 160+ / any SPD Breakpoint\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "HP% = DEF%",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus > HP% = DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Messenger Traversing Hackerspace (4pc)\n <a:hastag:1526584349896736879> Watchmaker, Master of Dream Machinations (4pc) for Break-focused teams",
+        "ornament": "<a:hastag:1526584349896736879> Sprightly Vonwacq\n <a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Fleet of the Ageless (DoT teams)",
+        "lightcone": "<a:hastag:1526584349896736879> The Finale of a Lie (Signature)\n <a:hastag:1526584349896736879> Cruising in the Stellar Sea\n <a:hastag:1526584349896736879> See You at the End",
+        "trace": "Talent = Ultimate > Skill > Basic"
+    }
+    ,"Aventurine": {
+        "stats": "<a:hastag:1526584349896736879> DEF : 4000 or above\n <a:hastag:1526584349896736879> SPD : Base or 134+",
+        "body": "DEF%",
+        "feet": "SPD = DEF%",
+        "planar sphere": "DEF%",
+        "link rope": "DEF%",
+        "relic": "<a:hastag:1526584349896736879> Self-Enshrouded Recluse (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)",
+        "lightcone": "<a:hastag:1526584349896736879> Inherenty Unjust Destiny (Signature)\n <a:hastag:1526584349896736879> Concert for Two\n <a:hastag:1526584349896736879> This is Me!",
+        "trace": "Skill > Ultimate = Talent > Basic"
+    }
+    ,"Aventurine Waveflair": {
+        "stats": "",
+        "body": "",
+        "feet": "",
+        "planar sphere": "",
+        "link rope": "",
+        "relic": "",
+        "ornament": "",
+        "lightcone": "",
+        "trace": ""
+    }
+    ,"Bailu": {
+        "stats": "<a:hastag:1526584349896736879> HP : 5500 or above\n <a:hastag:1526584349896736879> SPD : 134+ or any SPD Breakpoint\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "Outgoing Healing > HP%",
+        "feet": "SPD",
+        "planar sphere": "HP%",
+        "link rope": "ERR > HP%",
+        "relic": "<a:hastag:1526584349896736879> Warrior Goddess of Sun and Thunder (4pc)\n <a:hastag:1526584349896736879> Messenger Traversing Hackerspace (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Fleet of the Ageless\n <a:hastag:1526584349896736879> Giant Tree of Rapt Brooding",
+        "lightcone": "<a:hastag:1526584349896736879> Time Waits for No One (Signature)\n <a:hastag:1526584349896736879> Post-Op Conversation\n <a:hastag:1526584349896736879> Shared Feeling",
+        "trace": "Ultimate = Talent > Skill >Basic"
+    }
+    ,"Black Swan": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3100 or above\n <a:hastag:1526584349896736879> SPD : 134 or 160\n <a:hastag:1526584349896736879> EHR : 120%",
+        "body": "EHR%",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus = ATK%",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Prisoner in Deep Confineent (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Revelry by the Sea\n <a:hastag:1526584349896736879> Pan-Cosmic Commercial Enterprise",
+        "lightcone": "<a:hastag:1526584349896736879> Reforged Remembrance (Signature)\n <a:hastag:1526584349896736879> Eyes of the Prey\n <a:hastag:1526584349896736879> Good Night and Sleep Well",
+        "trace": "Talent > Skill = Ultimate > Basic"
+    }
+    ,"Blade": {
+        "stats": "<a:hastag:1526584349896736879> HP : 7000 or above\n <a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 150% or above\n <a:hastag:1526584349896736879> SPD : Base / 1 SPD above Sunday/Bronya/Sparkle or any SPD Breakpoint",
+        "body": "HP%",
+        "feet": "SPD >= HP%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "HP%",
+        "relic": "<a:hastag:1526584349896736879> Longevous Disciple (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Bone Collection's Serene Demesne\n <a:hastag:1526584349896736879> Inert Salsotto",
+        "lightcone": "<a:hastag:1526584349896736879> The Unreachable Side (Signature)\n <a:hastag:1526584349896736879> A Secret Vow\n <a:hastag:1526584349896736879> Ninja Record: Sound Hunt",
+        "trace": "Basic > Talent = Skill > Ultimate"
+    }
+    ,"Boothill": {
+        "stats": "<a:hastag:1526584349896736879> BE : 200% or above\n<a:hastag:1526584349896736879> CR : 40% or above\n <a:hastag:1526584349896736879> CD : 50% or above\n <a:hastag:1526584349896736879> SPD : 145/160/200",
+        "body": "CR = CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "BE%",
+        "relic": "<a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Talia: Kingdom of Banditry\n <a:hastag:1526584349896736879> Forge of the Kalpagni Lantern (Situational)",
+        "lightcone": "<a:hastag:1526584349896736879> Sailing Towards A Second Life (Signature)\n <a:hastag:1526584349896736879> Shadowed by Night\n <a:hastag:1526584349896736879> Cruising in the Stellar Sea\n <a:hastag:1526584349896736879> Swordplay",
+        "trace": "Talent > Skill = Ultimate > Basic"
+    }
+    ,"Bronya": {
+        "stats": "<a:hastag:1526584349896736879> CD : 150% or above\n <a:hastag:1526584349896736879> SPD : 1-2 Slower than the DPS or 160+ (0 SPD DPS)\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "CD",
+        "feet": "SPD",
+        "planar sphere": "HP% > DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Sacerdos' Relived Ordeal (4pc)\n <a:hastag:1526584349896736879> Messenger Traversing Hackerspace (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Lushaka, the Sunken Seas\n <a:hastag:1526584349896736879> Fleet of the Ageless",
+        "lightcone": "<a:hastag:1526584349896736879> But the Battle Isn't Over (Signature)\n <a:hastag:1526584349896736879> Past and Future\n <a:hastag:1526584349896736879> Dance! Dance! Dance!\n <a:hastag:1526584349896736879> Carve the Moon, Weave the Clouds",
+        "trace": "Skill = Ultimate > Talent > Basic"
+    }
+    ,"Castorice": {
+        "stats": "<a:hastag:1526584349896736879> CR : 80% or above (Including Poet)\n <a:hastag:1526584349896736879> CD : 170% or above\n <a:hastag:1526584349896736879> HP  : 7500 or above",
+        "body": "CD",
+        "feet": "HP%",
+        "planar sphere": "HP% > DMG Bonus",
+        "link rope": "HP%",
+        "relic": "<a:hastag:1526584349896736879> Poet of Morning Collapse (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Bone Collection's Serene Demesne\n <a:hastag:1526584349896736879>Arcadia of Woven Dreams",
+        "lightcone": "<a:hastag:1526584349896736879> Make Farewells More Beautiful (Signature)\n <a:hastag:1526584349896736879> The Flower Remembers\n <a:hastag:1526584349896736879> Sweat Now, Cry Less",
+        "trace": "Memo Skill = Memo Talent > Ultimate = Talent > Skill > Basic"
+    }
+    ,"Cerydra": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 4000 or above\n <a:hastag:1526584349896736879> SPD : 140\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "ATK%",
+        "feet": "SPD > ATK%",
+        "planar sphere": "ATK%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Sacerdos' Relived Ordeal (4pc)\n <a:hastag:1526584349896736879> Eagle of Twilight Line (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas\n <a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)",
+        "lightcone": "<a:hastag:1526584349896736879> Epoch Etched in Golden Blood (Signature)\n <a:hastag:1526584349896736879> The Forever Victual\n <a:hastag:1526584349896736879> Planetary Rendezvous (Wind DPS)",
+        "trace": "Talent = Skill > Ult > Basic"
+    }
+    ,"Cipher": {
+        "stats": "<a:hastag:1526584349896736879> CR : 40% or above\n <a:hastag:1526584349896736879> CD : 150% or above\n <a:hastag:1526584349896736879> SPD : 170\n <a:hastag:1526584349896736879> EHR : 39% or 67% (Resolution Light Cone)",
+        "body": "EHR% = CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus = ATK%",
+        "link rope": "ERR = ATK%",
+        "relic": "<a:hastag:1526584349896736879> Pioneer Diver of Dead Waters (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas\n <a:hastag:1526584349896736879> Firmament Frontline Glamoth",
+        "lightcone": "<a:hastag:1526584349896736879> Lies Dance on the Breeze (Signature)\n <a:hastag:1526584349896736879> Resolution Shines as Pearls of Sweat\n <a:hastag:1526584349896736879> Holiday Thermae Escapade",
+        "trace": "Talent = Ultimate > Skill > Basic"
+    }
+    ,"Clara": {
+        "stats": "<a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 140% or above\n <a:hastag:1526584349896736879> ATK : 2500 or above)",
+        "body": "CR = CD",
+        "feet": "ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Wavestrider Captain (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Duran, Dynasty of Running Wolves\n <a:hastag:1526584349896736879> Inert Salsotto",
+        "lightcone": "<a:hastag:1526584349896736879> Something Irreplaceable (Signature)\n <a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> Under the Blue Sky",
+        "trace": "Talent > Skill = Ultimate > Basic"
+    }
+    ,"Cyrene": {
+        "stats": "<a:hastag:1526584349896736879> CR : 50%\n <a:hastag:1526584349896736879> CD : 100% or above\n <a:hastag:1526584349896736879> HP : 4000 or above)\n <a:hastag:1526584349896736879> SPD : 180 / 200+",
+        "body": "CD = HP%",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus = HP%",
+        "link rope": "HP%",
+        "relic": "<a:hastag:1526584349896736879> World-Remaking Deliverer (4pc)\n <a:hastag:1526584349896736879> Any Mixed 2pc SPD Relics",
+        "ornament": "<a:hastag:1526584349896736879> Sprightly Vonwacq\n <a:hastag:1526584349896736879> Amphoreus, The Eternal Land",
+        "lightcone": "<a:hastag:1526584349896736879> This Love, Forever (Signature)\n <a:hastag:1526584349896736879> Memory's Curtain Never Falls\n <a:hastag:1526584349896736879> Victory In a Blink",
+        "trace": "Memosprite Skill > Skill > Talent = Ultimate > Memosprite Talent > Basic ATK"
+    }
+    ,"Dan Heng": {
+        "stats": "<a:hastag:1526584349896736879> ATK : \n<a:hastag:1526584349896736879> CR : 70%\n <a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday)",
+        "body": "CD = CR",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)\n <a:hastag:1526584349896736879> Pioneer Diver of Dead Waters (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Firmament Frontline Glamoth\n <a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 LightCone\n <a:hastag:1526584349896736879> Swordplay\n <a:hastag:1526584349896736879> Only Silence Remains",
+        "trace": "Skill = Ultimate > Talent > Basic"
+    }
+    ,"DHIL": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n<a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 140% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134",
+        "body": "CD = CR",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Wastelander of Banditry Desert (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Tengoku Livestream Arena\n <a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> Brighter Than the Sun (Signature)\n <a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> Under the Blue Sky",
+        "trace": "Basic > Skill = Talent = Ultimate"
+    }
+    ,"DHPT": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3000 or above\n<a:hastag:1526584349896736879> SPD : 134 or 160\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "ATK%",
+        "feet": "SPD",
+        "planar sphere": "ATK%",
+        "link rope": "ATK% (w/ phainon) or ERR",
+        "relic": "<a:hastag:1526584349896736879> Self-Enshrouded Recluse (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas",
+        "lightcone": "<a:hastag:1526584349896736879> Though Worlds Apart (Signature)\n <a:hastag:1526584349896736879> Journey, Forever Peaceful\n <a:hastag:1526584349896736879> Day One of My New Life\n <a:hastag:1526584349896736879>  Landau's Choice",
+        "trace": "Skill = Ult = Talent > Basic"
+    }
+    ,"Ratio": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2600 or above\n<a:hastag:1526584349896736879> CR : 70% or above (Outside of combat)\n <a:hastag:1526584349896736879> CD : 160% or above (Outside of combat)\n<a:hastag:1526584349896736879> SPD : 134",
+        "body": "CR = CD",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Pioneer Diver of Dead Waters (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Duran, Dynasty of Running Wolves\n <a:hastag:1526584349896736879> Inert Salsotto\n <a:hastag:1526584349896736879> Izumo Gensei and takama Divine Realm (2 Hunt Characters)",
+        "lightcone": "<a:hastag:1526584349896736879> Baptism of Pure Thought (Signature)\n <a:hastag:1526584349896736879> See You at the End\n <a:hastag:1526584349896736879> Cruising in the Stellar Sea",
+        "trace": "Talent > Skill = Ultimate > Basic"
+    }
+    ,"Evanescia": {
+        "stats": "<a:hastag:1526584349896736879> CR : 100% (At combat)\n <a:hastag:1526584349896736879> CD : 200% or above\n<a:hastag:1526584349896736879> SPD : Base Speed / 134 or Any SPD Breakpoint between 134-160\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus = HP% = DEF% = ATK%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Ever-Glorious Magical Girl (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Punklorde Stage Zero\n <a:hastag:1526584349896736879> Inert Salsotto\n <a:hastag:1526584349896736879> Izumo Gensei and takama Divine Realm (2 Hunt Characters)",
+        "lightcone": "<a:hastag:1526584349896736879> Until the Flowers Bloom (Signature)\n <a:hastag:1526584349896736879> Tomorrow, Together\n <a:hastag:1526584349896736879> Mushy Shroom's Adventures",
+        "trace": "Talent = Elation Skill > Ultimate > Skill > Basic"
+    }
+    ,"Feixiao": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2800 or above\n <a:hastag:1526584349896736879> CR : 70% (At combat)\n <a:hastag:1526584349896736879> CD : 140% or above\n<a:hastag:1526584349896736879> SPD : 134+ or any SPD Breakpoint",
+        "body": "CR = CD",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> The Wind-Soaring Valorous (4pc)\n <a:hastag:1526584349896736879> The Ashblazing Grand Duke",
+        "ornament": "<a:hastag:1526584349896736879> Duran, Dynasty of Running Wolves\n <a:hastag:1526584349896736879> Izumo Gensei and takama Divine Realm",
+        "lightcone": "<a:hastag:1526584349896736879> I Venture Forth to Hunt (Signature)\n <a:hastag:1526584349896736879> Cruising in the Stellar Sea\n <a:hastag:1526584349896736879> See You at the End\n <a:hastag:1526584349896736879> Swordplay  ",
+        "trace": "Ultimate = Talent > Skill > Basic"
+    }
+    ,"Firefly": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n<a:hastag:1526584349896736879> BE : 300% or above\n <a:hastag:1526584349896736879> SPD : 157+ or any SPD Breakpoint ",
+        "body": "ATK%",
+        "feet": "SPD",
+        "planar sphere": "ATK%",
+        "link rope": "BE%",
+        "relic": "<a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc)\n <a:hastag:1526584349896736879> The Ashblazing Grand Duke",
+        "ornament": "<a:hastag:1526584349896736879> Forge of the Kalpagni Lantern",
+        "lightcone": "<a:hastag:1526584349896736879> Whereabouts Should Dreams Rest (Signature)\n <a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> Indelible Promise",
+        "trace": "Ultimate > Skill = Talent > Basic"
+    }
+    ,"Fu Xuan": {
+        "stats": "<a:hastag:1526584349896736879> HP : 7000 or above\n<a:hastag:1526584349896736879> SPD : 134\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "HP%",
+        "feet": "SPD",
+        "planar sphere": "HP%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Longevous Disciple (2pc) and Guard of Wuthering Snow (2pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Fleet of the Ageless",
+        "lightcone": "<a:hastag:1526584349896736879> She Already Shut Her Eyes (Signature)\n <a:hastag:1526584349896736879> Landau's Choice\n <a:hastag:1526584349896736879> Day One of My New Life",
+        "trace": "Talent = Skill > Ultimate = Basic"
+    }
+    ,"Gallagher": {
+        "stats": "<a:hastag:1526584349896736879> BE : 60% - 150%\n<a:hastag:1526584349896736879> SPD : 134+ or any SPD Breakpoint\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "Outgoing Healing",
+        "feet": "SPD",
+        "planar sphere": "HP%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Passerby of Wandering Cloud (2pc) and Messenger Traversing Hackerspace/any SPD Relic (2pc) for Break Teams\n <a:hastag:1526584349896736879> Warrior Goddess of Sun and Thunder (4pc) for CRIT Teams",
+        "ornament": "<a:hastag:1526584349896736879> Forge of the Kalpagni Lantern\n <a:hastag:1526584349896736879> Talia: Kingdom of Banditry ",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone (Such as Lisha's and Huo Huo's)\n <a:hastag:1526584349896736879> Quid Pro Quo\n <a:hastag:1526584349896736879> Post-Op Conversation",
+        "trace": "Talent > Skill > Basic = Ultimate"
+    },"Gepard": {
+        "stats": "<a:hastag:1526584349896736879> DEF : 2500 or above\n<a:hastag:1526584349896736879> SPD : 134\n<a:hastag:1526584349896736879> EHR : 50%\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "DEF%",
+        "feet": "SPD",
+        "planar sphere": "DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Self-Enshrouded Recluse (4pc)\n <a:hastag:1526584349896736879> Guard of Wuthering Snow (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Belobog of the Architects\n <a:hastag:1526584349896736879> Broken Keel",
+        "lightcone": "<a:hastag:1526584349896736879> Moment of Victory (Signature)\n <a:hastag:1526584349896736879> Journey, Forever Peaceful\n <a:hastag:1526584349896736879> Landau's Choice",
+        "trace": "Talent > Skill > Basic = Ultimate"
+    },"Gilgamesh": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2800 or above\n <a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 130% or above",
+        "body": "CR = CD",
+        "feet": "ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "Scholar Lost in Erudition (4pc)",
+        "ornament": "Cosmic Life Sciences Institute",
+        "lightcone": "<a:hastag:1526584349896736879> I Am As You Behold (Signature)\n <a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> A Trail of Bygone Blood",
+        "trace": "Talent > Ultimate > Skill > Basic"
+    }
+    ,"Guinaifen": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n <a:hastag:1526584349896736879> EHR : 67%\n <a:hastag:1526584349896736879> SPD : 134 / 143 or any SPD Breakpoint",
+        "body": "EHR% = ATK%",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Prisoner in Deep Confinement (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Revelry by the Sea\n <a:hastag:1526584349896736879> Fleet of the Ageless",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> Good Night and Sleep Well\n <a:hastag:1526584349896736879> Eyes of the Prey",
+        "trace": "Skill = Talent > Ultimate > Basic"
+    }
+    ,"Hanya": {
+        "stats": "<a:hastag:1526584349896736879> SPD : 160+ or any SPD Breakpoint\n <a:hastag:1526584349896736879> ER : 19.4%",
+        "body": "HP% = DEF%",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Messenger Traversing Hackerspace (4pc)\n <a:hastag:1526584349896736879> Any Mixed 2pc SPD Relics",
+        "ornament": "<a:hastag:1526584349896736879> Fleet of the Ageless\n <a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Lushaka, the Sunken Seas",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone (Such as Sparkle's or Bronya's)\n <a:hastag:1526584349896736879> Dance! Dance! Dance!\n <a:hastag:1526584349896736879> Memories of the Past",
+        "trace": "Ultimate = Talent > Skill > Basic"
+    }
+    ,"Herta": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2200 or above\n <a:hastag:1526584349896736879> CR : 60% or above\n<a:hastag:1526584349896736879> CD : 110 or above\n <a:hastag:1526584349896736879> SPD : 134+ or any SPD Breakpoint",
+        "body": "CR = CD",
+        "feet": "ATK% > SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> The Ashblazing Grand Duke (4pc)\n <a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Sigonia, the Unclaimed Desolation (Pure Fiction)\n <a:hastag:1526584349896736879> Inert Salsotto\n <a:hastag:1526584349896736879> Firmament Frontline Glamoth",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> A Dream Scented in Wheat\n <a:hastag:1526584349896736879> Geniuses' Repose",
+        "trace": "Talent > Skill = Ultimate > Basic"
+    }
+    ,"Himeko": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n <a:hastag:1526584349896736879> CR : 60% or above\n<a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : Base Speed or 135 / 143\n <a:hastag:1526584349896736879> BE : 130% or above (SuperBreak Teams)",
+        "body": "CR = CD",
+        "feet": "ATK% = SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK% = BE (SuperBreak Teams)",
+        "relic": "<a:hastag:1526584349896736879> The Ashblazing Grand Duke (4pc)\n <a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc) (SuperBreak Teams)",
+        "ornament": "<a:hastag:1526584349896736879> Forge of the Kalpagni Lantern (SuperBreak Teams)\n <a:hastag:1526584349896736879> Inert Salsotto",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> After the Charmony Fall (SuperBreak Teams)\n <a:hastag:1526584349896736879> A Dream Scented in Wheat",
+        "trace": "Ultimate > Talent = Skill > Basic"
+    }
+    ,"Nova": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3000 or above\n <a:hastag:1526584349896736879> CR : As close to 100% in combat\n<a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : Base Speed",
+        "body": "CR > CD",
+        "feet": "ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> As Navigator Isee Sees It (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Fallen Star Anchorage\n <a:hastag:1526584349896736879> The Wondrous BananAmusement Park",
+        "lightcone": "<a:hastag:1526584349896736879> A Star That Lights the Night (Signature)\n <a:hastag:1526584349896736879> Geniuses' Repose\n <a:hastag:1526584349896736879> Any *5 Lightcone",
+        "trace": "Talent = Ultimate > Skill > Basic"
+    }
+    ,"Hook": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2300 or above\n <a:hastag:1526584349896736879> CR : 60% or above\n<a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134 / 143",
+        "body": "CR = CD",
+        "feet": "ATK% = SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Pioneer Diver of Dead Waters (4pc)\n<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Rutilant Arena\n <a:hastag:1526584349896736879> Space Sealing Station",
+        "lightcone": "<a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> Woof! Walk Time!\n <a:hastag:1526584349896736879> Any *5 Lightcone",
+        "trace": "Skill = Talent > Ultimate > Basic"
+    }
+    ,"Huohuo": {
+        "stats": "<a:hastag:1526584349896736879> HP : 6000 or above\n <a:hastag:1526584349896736879> SPD : 143+ or Any SPD Breakpoint\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "Outgoing Healing",
+        "feet": "SPD",
+        "planar sphere": "HP%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Messenger Traversing Hackerspace (4pc)\n<a:hastag:1526584349896736879> Warrior Goddess of Sun and Thunder (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas\n <a:hastag:1526584349896736879> Fleet of the Ageless\n <a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)",
+        "lightcone": "<a:hastag:1526584349896736879> Night of Fright (Signature)\n <a:hastag:1526584349896736879> Post-Op Conversation\n <a:hastag:1526584349896736879> Hey, Over Here\n <a:hastag:1526584349896736879> Shared Feeling",
+        "trace": "Ultimate >= Skill = Talent > Basic"
+    }
+    ,"Hyacine": {
+        "stats": "<a:hastag:1526584349896736879> HP : 4000 or above\n <a:hastag:1526584349896736879> SPD : 200+ (at Combat)",
+        "body": "Outgoing Healing",
+        "feet": "SPD",
+        "planar sphere": "HP%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Warrior Goddess of Sun and Thunder (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Giant Tree of Rapt Brooding",
+        "lightcone": "<a:hastag:1526584349896736879> Long May Rainbows Adorn the Sky (Signature)\n <a:hastag:1526584349896736879> Memory's Curtain Never Falls",
+        "trace": "Ultimate > Memosprite Talent = Skill > Talent = Memosprite Skill > Basic"
+    }
+    ,"Hysilens": {
+        "stats": "<a:hastag:1526584349896736879> EHR : 120%\n <a:hastag:1526584349896736879> ATK : 3000 or above (at combat)\n<a:hastag:1526584349896736879> SPD : 134 / 160 or 1 SPD higher than kafka",
+        "body": "EHR",
+        "feet": "ATK% >= SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Prisoner in Deep Confinement (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Revelry by the Sea",
+        "lightcone": "<a:hastag:1526584349896736879> Why Does the Ocean Sing (Signature)\n <a:hastag:1526584349896736879> Eyes of the Prey\n <a:hastag:1526584349896736879> Good Night and Sleep Well",
+        "trace": "Ultimate = Talent > Skill > Basic"
+    }
+    ,"Jade": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2600 or above\n <a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 100% or\n<a:hastag:1526584349896736879> SPD : Base Speed / 134",
+        "body": "CR = CD",
+        "feet": "ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Genius of Brilliant Stars (4pc)\n <a:hastag:1526584349896736879> Poet of Mourning Collapse (4pc) -> Base Speed\n <a:hastag:1526584349896736879> The Ashblazing Grand Duke (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Duran, Dynasty of Running Wolves\n <a:hastag:1526584349896736879> Izumo Gensei and Takama Divine Realm",
+        "lightcone": "<a:hastag:1526584349896736879> Yet Hope is Priceless (Signature)\n <a:hastag:1526584349896736879> A Dream Scented in Wheat\n <a:hastag:1526584349896736879> Geniuses' Repose",
+        "trace": "Talent > Ult > Skill = Basic"
+    }
+    ,"Jiaoqiu": {
+        "stats": "<a:hastag:1526584349896736879> EHR : 140% or 180% with Signature\n <a:hastag:1526584349896736879> SPD : Any SPD Breakpoint as long as it's higher than the DPS\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "EHR",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Prisoner in Deep Confinement (4pc)\n <a:hastag:1526584349896736879> Messenger Traversing Hackerspace (2pc) and Pioneer Diver of Dead Waters (2pc)",
+        "ornament": "<a:hastag:1526584349896736879> Sprightly Vonwacq\n <a:hastag:1526584349896736879> Pan-Cosmic Commercial Enterprise\n <a:hastag:1526584349896736879> Fleet of the Ageless",
+        "lightcone": "<a:hastag:1526584349896736879> Those Many Springs (Signature)\n <a:hastag:1526584349896736879> Resolution Shines As Pearls\n <a:hastag:1526584349896736879> Solitary Healing (Pure Fiction)\n <a:hastag:1526584349896736879> Before the Tutorial Mission Starts",
+        "trace": "Talent = Ultimate > Skill > Basic"
+    }
+    ,"Jing Yuan": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n <a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 140% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 135 (-1 SPD Sparkle/Bronya/Sunday)",
+        "body": "CR = CD",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> The Ashblazing Grand Duke (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> The Wondrous BananAmusement Park\n <a:hastag:1526584349896736879> Inert Salsotto",
+        "lightcone": "<a:hastag:1526584349896736879> Before Dawn (Signature)\n <a:hastag:1526584349896736879> Today Is Another Peaceful Day\n <a:hastag:1526584349896736879> A Dream Scented in Wheat",
+        "trace": "Talent > Skill = Ultimate > Basic"
+    }
+    ,"Jingliu": {
+        "stats": "<a:hastag:1526584349896736879> HP : 6000 or above\n <a:hastag:1526584349896736879> CR : 40% - 50%\n <a:hastag:1526584349896736879> CD : 140% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 135 (-1 SPD Sparkle/Bronya/Sunday)",
+        "body": "HP% > CD",
+        "feet": "SPD = HP%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "HP%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)\n <a:hastag:1526584349896736879> Genius of Brilliant Stars (4pc) against quantum weakness enemy",
+        "ornament": "<a:hastag:1526584349896736879> Bone Collection's Serene Demesne\n <a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> I Shall Be My Own Sword (Signature)\n <a:hastag:1526584349896736879> A Trail of Bygone Blood\n <a:hastag:1526584349896736879> Ninja Record - Sound Hunt",
+        "trace": "Skill = Talent > Ultimate > Basic"
+    }
+    ,"Kafka": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n <a:hastag:1526584349896736879> EHR : 75% or above\n <a:hastag:1526584349896736879> SPD : Any SPD Breakpoint from 156 SPD and above\n <a:hastag:1526584349896736879> ERR: 19.4%",
+        "body": "EHR% = ATK%",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus = ATK%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Eagle of Twilight Line (4pc) as Support\n <a:hastag:1526584349896736879> Prisoner in Deep Confinement (4pc) as DPS",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas as Support\n <a:hastag:1526584349896736879> Revelry by the Sea as DPS",
+        "lightcone": "<a:hastag:1526584349896736879> Patience is All You Need (Signature)\n <a:hastag:1526584349896736879> Before the Tutorial Mission Starts\n <a:hastag:1526584349896736879> Holiday Thermae Escapade\n <a:hastag:1526584349896736879> Good Night and Sleep Well",
+        "trace": "Ultimate = Skill > Talent > Basic"
+    }
+    ,"Lingsha": {
+        "stats": "<a:hastag:1526584349896736879> BE : 200% or 250% with Iron Cavalry (at combat)\n <a:hastag:1526584349896736879> SPD : 143 or above",
+        "body": "Outgoing Healing",
+        "feet": "SPD",
+        "planar sphere": "ATK%",
+        "link rope": "ERR = BE%",
+        "relic": "<a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc) for SuperBreak Teams\n <a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (2pc) and Messenger Traversing Hackerspace (2pc) for Flex Teams",
+        "ornament": "<a:hastag:1526584349896736879> Forge of the Kalpagni Lantern\n <a:hastag:1526584349896736879> Talia: Kingdom of Banditry",
+        "lightcone": "<a:hastag:1526584349896736879> Scent Alone Stays True (Signature)\n <a:hastag:1526584349896736879> Post-Op Conversation\n <a:hastag:1526584349896736879> Dream Montage",
+        "trace": "Ultimate = Talent > Skill > Basic"
+    }
+    ,"Luka": {
+        "stats": "<a:hastag:1526584349896736879> EHR : 67%\n <a:hastag:1526584349896736879> ATK : 2500 or above\n <a:hastag:1526584349896736879> SPD : 143 or Higher than Kafka",
+        "body": "EHR% = ATK%",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Prisoner in Deep Confinement (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Revelry by the Sea\n <a:hastag:1526584349896736879> Pan-Cosmic Commercial Enterprise",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> Good Night and Sleep Well\n <a:hastag:1526584349896736879> Eyes of the Prey",
+        "trace": "Skill > Talent = Ultimate > Basic"
+    }
+    ,"Luocha": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2400 or above\n <a:hastag:1526584349896736879> SPD : Any SPD Breakpoint above 135\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "Outgoing Healing",
+        "feet": "SPD",
+        "planar sphere": "ATK%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Warrior Goddess of Sun and Thunder  (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Giant Tree of Rapt Brooding\n <a:hastag:1526584349896736879> Fleet of the Ageless",
+        "lightcone": "<a:hastag:1526584349896736879> Echoes of the Coffin\n <a:hastag:1526584349896736879> Post-Op Conversation\n <a:hastag:1526584349896736879> Shared Feeling ",
+        "trace": "Talent = Skill > Ultimate = Basic"
+    }
+    ,"Lynx": {
+        "stats": "<a:hastag:1526584349896736879> HP : 5000 or above\n <a:hastag:1526584349896736879> SPD : Any SPD Breakpoint above 135\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "Outgoing Healing",
+        "feet": "SPD",
+        "planar sphere": "HP%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Warrior Goddess of Sun and Thunder  (4pc)\n <a:hastag:1526584349896736879> Messenger Traversing Hackerspace (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Giant Tree of Rapt Brooding\n <a:hastag:1526584349896736879> Fleet of the Ageless",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> Post-Op Conversation\n <a:hastag:1526584349896736879> Perfect Timing",
+        "trace": "Ultimate > Talent = Skill = Basic"
+    }
+    ,"March 7th": {
+        "stats": "<a:hastag:1526584349896736879> EHR : 0% for DEF build or 67% for Freeze build\n<a:hastag:1526584349896736879> DEF : 2300 or above\n <a:hastag:1526584349896736879> SPD : 134+\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "EHR = DEF%",
+        "feet": "SPD",
+        "planar sphere": "DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Self-Enshrouded Recluse (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Fleet of the Ageless\n<a:hastag:1526584349896736879> Belobog of the Architects",
+        "lightcone": "<a:hastag:1526584349896736879> Moment of Victory (Gepard Signature)\n <a:hastag:1526584349896736879> Landau's Choice \n <a:hastag:1526584349896736879> Journey, Forever Peaceful",
+        "trace": "Skill > Ultimate = Talent > Basic"
+    }
+    ,"March Hunt": {
+        "stats": "CRIT Builds :\n <a:hastag:1526584349896736879> ATK : 2200 or above\n<a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 140% or above\n <a:hastag:1526584349896736879> SPD : 123\n SuperBreak Builds\n <a:hastag:1526584349896736879> ATK : 1800+ (Optional)\n<a:hastag:1526584349896736879> CR : 50% (Optional))\n <a:hastag:1526584349896736879> CD : 100% (Optional)\n <a:hastag:1526584349896736879> SPD :135\n <a:hastag:1526584349896736879> BE : 140% or above",
+        "body": "CD = CR",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK% = BE (SuperBreak Builds)",
+        "relic": "<a:hastag:1526584349896736879> Musketeer of Wild Wheat (4pc) CRIT Builds\n <a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc) SuperBreak Builds",
+        "ornament": "<a:hastag:1526584349896736879> Rutilant Arena (CRIT Builds)\n <a:hastag:1526584349896736879> Talia: Kingdom of Banditry (SuperBreak Builds)",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> Swordplay (CRIT Builds)\n <a:hastag:1526584349896736879> Shadowed By Night (SuperBreak Builds)",
+        "trace": "Basic > Skill = Talent > Ult"
+    }
+    ,"Misha": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2100 or above\n<a:hastag:1526584349896736879> CR : 65% or above\n <a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134+",
+        "body": "CR = CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)\n <a:hastag:1526584349896736879> Hunter of Glacial Forest (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Firmament Frontline Glamoth\n <a:hastag:1526584349896736879> Inert Salsotto\n<a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> A Trail of Bygone Blood\n <a:hastag:1526584349896736879> Under the Blue Sky",
+        "trace": "Ultimate = Skill > Talent > Basic"
+    }
+    ,"Mortenax Blade": {
+        "stats": "<a:hastag:1526584349896736879> HP : 6000 or above\n<a:hastag:1526584349896736879> CR : 100% at combat\n <a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : Any SPD Breakpoint between 134-160\n<a:hastag:1526584349896736879> EHR : Depends on Lightcone (40-67%)\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "CR > EHR",
+        "feet": "SPD",
+        "planar sphere": "HP% > DMG Bonus",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Divine-Querying Master Smith (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Sprightly Vonwacq\n <a:hastag:1526584349896736879> Inert Salsotto\n<a:hastag:1526584349896736879> Bone Collection's Serene Demesne",
+        "lightcone": "<a:hastag:1526584349896736879> Reforged in Hellfire (Signature)\n <a:hastag:1526584349896736879> Resolution Shines As Pearls of Sweat\n <a:hastag:1526584349896736879> Holiday Thermae Escapade\n <a:hastag:1526584349896736879> Good Night and Sleep Well",
+        "trace": "Ultimate > Skill = Talent > Basic"
+    }
+    ,"Moze": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n<a:hastag:1526584349896736879> CR : 80% or above\n <a:hastag:1526584349896736879> CD : 120% or above",
+        "body": "CR = CD",
+        "feet": "ATK",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Pioneer Diver of Dead Waters (4pc)\n <a:hastag:1526584349896736879> The Ashblazing Grand Duke (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Duran, Dynasty of Running Wolves\n <a:hastag:1526584349896736879> Inert Salsotto\n<a:hastag:1526584349896736879> Izumo Gensei and Takama Divine Realm",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> See You at the End\n <a:hastag:1526584349896736879> Swordplay",
+        "trace": "Talent > Ultimate > Skill > Basic"
+    }
+    ,"Mydei": {
+        "stats": "<a:hastag:1526584349896736879> HP : 8000 or above\n<a:hastag:1526584349896736879> CR : 40% Outside Combat\n <a:hastag:1526584349896736879> CD : 160% or above\n <a:hastag:1526584349896736879> SPD : 134+ or Any SPD Breakpoint above",
+        "body": "CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "HP%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)\n <a:hastag:1526584349896736879> As Navigator Isee Sees It (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Bone Collection's Serene Demesne\n <a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> Flame of Blood, Blaze My Path (Signature)\n <a:hastag:1526584349896736879> Ninja Record - Sound Hunt\n <a:hastag:1526584349896736879> A Trail of Bygone Blood\n <a:hastag:1526584349896736879> A Secret Vow",
+        "trace": "Skill = Ultimate > Talent > Basic"
+    }
+    ,"Natasha": {
+        "stats": "<a:hastag:1526584349896736879> HP : 5000 or above\n<a:hastag:1526584349896736879> SPD : 134+ or Any SPD Breakpoint above\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "Outgoing Healing",
+        "feet": "SPD",
+        "planar sphere": "HP%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Warrior Goddess of Sun and Thunder (4pc)\n <a:hastag:1526584349896736879> Messenger Traversing Hackerspace (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Giant Tree of Rapt Brooding\n <a:hastag:1526584349896736879> Fleet of the Ageless",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone with HP Scaling\n <a:hastag:1526584349896736879> Post-Op Conversation\n <a:hastag:1526584349896736879> Warmth Shortens Cold Nights",
+        "trace": "Ultimate > Skill > Talent > Basic"
+    }
+    ,"Pela": {
+        "stats": "<a:hastag:1526584349896736879> EHR : 67% or above\n<a:hastag:1526584349896736879> SPD : 134 / 143 / 160\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "EHR%",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Eagle of Twilight Line (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Fleet of the Ageless\n <a:hastag:1526584349896736879> Pan-Cosmic Commercial Enterprise",
+        "lightcone": "<a:hastag:1526584349896736879> Before the Tutorial Mission Starts\n <a:hastag:1526584349896736879> Resolution Shines As Pearls",
+        "trace": "Ultimate = Talent > Skill = Basic"
+    }
+    ,"Phainon": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2400 or above\n<a:hastag:1526584349896736879> CR : 80% or above\n<a:hastag:1526584349896736879> CD : 150% or above\n<a:hastag:1526584349896736879> SPD : Base Speed or 1 SPD above Sparkle/Bronya/Sunday",
+        "body": "CR",
+        "feet": "ATK% > SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Wavestrider Captain (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Arcadia of Woven Dreams\n <a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> Thus Burns the Dawn (Signature)\n <a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> A Trail of Bygone Blood",
+        "trace": "Skill = Talent > Ultimate > Basic"
+    }
+    ,"Qingque": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2400 or above\n<a:hastag:1526584349896736879> CR : 70% (With Rutilant Arena Ornament)\n 60% (With Tengoku Livestream Ornament)\n<a:hastag:1526584349896736879> CD : 120% or above\n<a:hastag:1526584349896736879> SPD : Base Speed (With Poet Relic set)\n 134+ (With Genius Brilliant Stars Relic set)",
+        "body": "CR = CD",
+        "feet": "ATK% > SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Poet of Mourning Collapse (4pc)\n <a:hastag:1526584349896736879> Genius of Brilliant Stars",
+        "ornament": "<a:hastag:1526584349896736879> Tengoku Livestream\n <a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> Geniuses' Repose",
+        "trace": "Basic > Skill = Talent > Ultimate"
+    }
+    ,"Rappa": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3000 or above\n<a:hastag:1526584349896736879> BE : 200% or above\n<a:hastag:1526584349896736879> SPD : Any SPD Breakpoint above 145 SPD",
+        "body": "ATK",
+        "feet": "SPD",
+        "planar sphere": "ATK%",
+        "link rope": "BE%",
+        "relic": "<a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Talia: Kingdom of Banditry",
+        "lightcone": "<a:hastag:1526584349896736879> Ninjutsu Inscription - Dazzling Evilbreaker (Signature)\n <a:hastag:1526584349896736879> After the Charmony Fall\n <a:hastag:1526584349896736879> Make the World Clamor\n <a:hastag:1526584349896736879> Eternal Calculus",
+        "trace": "Talent = Ultimate > Basic > Skill"
+    }
+    ,"Rin Tohsaka": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n<a:hastag:1526584349896736879> CR : 70% or above\n<a:hastag:1526584349896736879> CD : 130% or above\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "CR",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ERR",
+        "relic": "Genius of Brilliant Stars (4pc)",
+        "ornament": "Penacony, Land of the Dreams",
+        "lightcone": "<a:hastag:1526584349896736879> Flickering Stars (Signature)\n <a:hastag:1526584349896736879> Today Is Another Peaceful Day\n <a:hastag:1526584349896736879> The Day The Cosmos Fell",
+        "trace": "Talent > Ultimate > Skill > Basic"
+    }
+    ,"Robin": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3500 or above\n <a:hastag:1526584349896736879> SPD : 120 or above\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "ATK",
+        "feet": "ATK",
+        "planar sphere": "ATK% = DMG Bonus",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Any Mixed 2pc ATK Relics",
+        "ornament": "<a:hastag:1526584349896736879> Fleet of the Ageless\n <a:hastag:1526584349896736879> Sprightly Vonwacq",
+        "lightcone": "<a:hastag:1526584349896736879> Flowing Nightglow (Signature)\n <a:hastag:1526584349896736879> For Tomorrow's Journey\n <a:hastag:1526584349896736879> Poised to Bloom",
+        "trace": "Ultimate > Skill > Talent > Basic"
+    }
+    ,"Robin Summeretto": {
+        "stats": "<a:hastag:1526584349896736879> HP : 6000 or above\n<a:hastag:1526584349896736879> SPD : 160+\n <a:hastag:1526584349896736879> CR  : 50% or above",
+        "body": "HP%",
+        "feet": "SPD",
+        "planar sphere": "HP",
+        "link rope": "ERR%",
+        "relic": "<a:hastag:1526584349896736879> World Remaking Deliverer (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Amphoreus, The Eternal Land\n <a:hastag:1526584349896736879> Sprightly Vonwacq",
+        "lightcone": "<a:hastag:1526584349896736879> Rise and Sing (Signature)\n <a:hastag:1526584349896736879> Memory's Curtain Never Falls\n<a:hastag:1526584349896736879> The Story's Next Page",
+        "trace": "Ultimate = Talent > Memosprite Talent > Memosprite Skill > Skill > Basic"
+    }
+    ,"Ruan Mei": {
+        "stats": "<a:hastag:1526584349896736879> BE : 180%\n <a:hastag:1526584349896736879> SPD : 134 or above\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "HP% = DEF%",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Watchmaker, Master of Dream Machinations (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Sprightly Vonwacq`",
+        "lightcone": "<a:hastag:1526584349896736879> Past Self in Mirror (Signature)\n <a:hastag:1526584349896736879> In Pursuit of Wind\n <a:hastag:1526584349896736879> Memories of the Past",
+        "trace": "Ultimate = Talent = Skill > Basic"
+    }
+    ,"Saber": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2600 or above\n <a:hastag:1526584349896736879> CR : 60% with Sunday or 80% outside of combat (Without Sunday)\n <a:hastag:1526584349896736879> CD : 150% or above\n<a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or  135 ( 1 SPD faster than Sparkle/Bronya/Sunday)",
+        "body": "CR = CD",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Wavestrider Captain  (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Inert Salsotto\n <a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> A Thankless Coronation (Signature)\n <a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> A Trail of Bygone",
+        "trace": "Ultimate = Skill > Basic = Talent"
+    }
+    ,"Sampo": {
+        "stats": "<a:hastag:1526584349896736879> EHR : 67%\n <a:hastag:1526584349896736879> ATK : 2600 or above\n <a:hastag:1526584349896736879> SPD : 143",
+        "body": "EHR% = ATK%",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Prisoner in Deep Confinement (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Revelry by the Sea\n <a:hastag:1526584349896736879> Firmament Frontline Glamoth",
+        "lightcone": "<a:hastag:1526584349896736879> Good Night and Sleep\n <a:hastag:1526584349896736879> Eyes of the Prey",
+        "trace": "Talent > Skill > Ultimate > Basic"
+    }
+    ,"Seele": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2900 or above\n <a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 150% or above\n <a:hastag:1526584349896736879> SPD : Base Speed",
+        "body": "CR = CD",
+        "feet": "ATK",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Genius of Brilliant Stars (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Rutilant Arena\n <a:hastag:1526584349896736879> Firmanent Frontline Glamoth",
+        "lightcone": "<a:hastag:1526584349896736879> In the Night (Signature)\n <a:hastag:1526584349896736879> Cruising in the Stellar Sea\n <a:hastag:1526584349896736879> Swordplay",
+        "trace": "Skill > Talent = Ultimate > Basic"
+    }
+    ,"Serval": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2300 or above\n <a:hastag:1526584349896736879> CR : 60% or above\n <a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : 134 or 160 (with The Herta)\n <a:hastag:1526584349896736879> ERR : 19.4% (with The Herta)",
+        "body": "CR = CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK% = ERR (with The Herta)",
+        "relic": "<a:hastag:1526584349896736879> Pioneer Diver of Dead Waters (4pc)\n<a:hastag:1526584349896736879> Eagle of Twilight Line (4pc) with The Herta",
+        "ornament": "<a:hastag:1526584349896736879> Sprightly Vonwacq\n <a:hastag:1526584349896736879> Firmanent Frontline Glamoth",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879>  S5 Passkey (with The Herta)\n <a:hastag:1526584349896736879> Geniuses' Repose",
+        "trace": "Ultimate > Talent > Skill > Basic"
+    }
+    ,"Silver Wolf": {
+        "stats": "<a:hastag:1526584349896736879> EHR : 67%\n<a:hastag:1526584349896736879> ATK : 2000+ Optional\n <a:hastag:1526584349896736879> CR : 50% (Optional)\n <a:hastag:1526584349896736879> CD : 100% (Optional)\n <a:hastag:1526584349896736879> SPD : Any SPD Breakpoint above 160\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "EHR",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Eagle of Twilight Line  (4pc)\n<a:hastag:1526584349896736879>  Any Mixed 2pc SPD Relics\n<a:hastag:1526584349896736879> Genius of Brilliant Stars",
+        "ornament": "<a:hastag:1526584349896736879> Sprightly Vonwacq\n <a:hastag:1526584349896736879> Lushaka, the Sunken Seas\n <a:hastag:1526584349896736879> Penacony, Land of the Dreams",
+        "lightcone": "<a:hastag:1526584349896736879> Incessant Rain (Signature)\n <a:hastag:1526584349896736879>  Before the Tutorial Mission Starts\n <a:hastag:1526584349896736879> Holiday Thermae Escape\n <a:hastag:1526584349896736879> Resolution Shines as Pearls of Sweat",
+        "trace": "Ultimate > Skill > Talent > Basic"
+    }
+    ,"SW 99": {
+        "stats": "<a:hastag:1526584349896736879> CR : 80%\n <a:hastag:1526584349896736879> CD : 100% \n <a:hastag:1526584349896736879> SPD : Any SPD Breakpoint above 160 or 200+ with Signature",
+        "body": "CR",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF% = ATK%",
+        "link rope": "HP% = DEF% = ATK%",
+        "relic": "<a:hastag:1526584349896736879> Ever-Glorious Magical Girl (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Punklorde Stage Zero",
+        "lightcone": "<a:hastag:1526584349896736879> Welcome to the Cosmic City (Signature)\n <a:hastag:1526584349896736879>  Mushy Shroom's Adventures\n <a:hastag:1526584349896736879> Today's Good Luck",
+        "trace": "Basic > Ult = Talent = Elation Skill > Skill"
+    }
+    ,"Sparkle": {
+        "stats": "<a:hastag:1526584349896736879> CD : 180% or above\n <a:hastag:1526584349896736879> SPD : 200 / 184 / 168 SPD for Fast Sparkle or -1 SPD from DPS for Slow Sparkle\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "CD",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Sacerdos' Relived Ordeal (4pc)\n <a:hastag:1526584349896736879> Any Mixed 2pc SPD Relics\n <a:hastag:1526584349896736879> Eagle of the Twilight",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Lushaka, the Sunken Seas",
+        "lightcone": "<a:hastag:1526584349896736879> Earthly Escapade (Signature)\n <a:hastag:1526584349896736879>  Past and Future\n <a:hastag:1526584349896736879> Dance! Dance! Dance!\n <a:hastag:1526584349896736879> Planetary Rendezvous (Quantum DPS)",
+        "trace": "Skill > Ultimate = Talent > Basic"
+    }
+    ,"Sparxie": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3300 or above\n <a:hastag:1526584349896736879> CR : 60% or above\n <a:hastag:1526584349896736879> CD : 190% or above\n <a:hastag:1526584349896736879> SPD : Base SPD",
+        "body": "CD",
+        "feet": "ATK%",
+        "planar sphere": "ATK%",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Ever-Glorious Magical Girl (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Tengoku Livestream",
+        "lightcone": "<a:hastag:1526584349896736879> Dazzled by a Flowery World (Signature)\n <a:hastag:1526584349896736879>  Today's Good Luck\n <a:hastag:1526584349896736879> Mushy Shroomy's Adventures",
+        "trace": "Elation Skill / Talent > Basic = Skill = Ultimate"
+    }
+    ,"Sunday": {
+        "stats": "<a:hastag:1526584349896736879> CD : 200% or above\n <a:hastag:1526584349896736879> SPD : 1 SPD slower than DPS or 160+ SPD (HyperSpeed)\n <a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "CD",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Sacerdos' Relived Ordeal (4pc)\n <a:hastag:1526584349896736879> Any Mixed 2pc SPD Relics",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Lushaka, the Sunken Seas",
+        "lightcone": "<a:hastag:1526584349896736879> A Grounded Ascent  (Signature)\n <a:hastag:1526584349896736879> But the Battle Isn't Over (Bronya's Signature\n <a:hastag:1526584349896736879> Past and Future\n <a:hastag:1526584349896736879> Carve the Moon, Weave the Clouds",
+        "trace": "Skill = Ultimate = Talent > Basic"
+    }
+    ,"Sushang": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2400 or above\n <a:hastag:1526584349896736879> CR : 70% or above\n <a:hastag:1526584349896736879> CD : 140% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134",
+        "body": "CR = CD",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)\n <a:hastag:1526584349896736879> Champion of Streetwise Boxing (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Rutilant Arena\n <a:hastag:1526584349896736879> Space Sealing Station",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> Swordplay\n <a:hastag:1526584349896736879> Only Silence Remains",
+        "trace": "Skill = Ultimate > Talent > Basic"
+    }
+    ,"The Dahlia": {
+        "stats": "<a:hastag:1526584349896736879> BE : 150% or above\n <a:hastag:1526584349896736879> EHR : 67% (Resolution Lightcone)\n<a:hastag:1526584349896736879> SPD : 145 or above",
+        "body": "HP% = DEF% = EHR",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "BE%",
+        "relic": "<a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc)\n <a:hastag:1526584349896736879> Champion of Streetwise Boxing (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Forge of the Kalpagni Lantern",
+        "lightcone": "<a:hastag:1526584349896736879> Never Forget Her Flame (Signature)\n <a:hastag:1526584349896736879> Resolution Shines As Pearls\n <a:hastag:1526584349896736879> Before the Tutorial Mission Starts ",
+        "trace": "Talent = Ultimate > Basic = Skill"
+    }
+    ,"The Herta": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2700 or above\n <a:hastag:1526584349896736879> CR : 70% or above\n<a:hastag:1526584349896736879> CD : 120% or above\n<a:hastag:1526584349896736879> SPD : 134 or Any SPD Breakpoint above",
+        "body": "CR = CD",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Izumo Gensei and Takama Divine Realm",
+        "lightcone": "<a:hastag:1526584349896736879> Into the Unreachable Veil  (Signature)\n <a:hastag:1526584349896736879> Today Is Another Peaceful Day\n <a:hastag:1526584349896736879> Geniuses' Repose",
+        "trace": "Talent >= Skill = Ultimate > Basic"
+    }
+    ,"Tingyun": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2400 or above\n<a:hastag:1526584349896736879> SPD : 143 or Any SPD Breakpoint above\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "ATK%",
+        "feet": "SPD",
+        "planar sphere": "ATK%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Sacerdos' Relived Ordeal (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Sprightly Vonwacq\n <a:hastag:1526584349896736879> Lushaka, the Sunken Seas",
+        "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> Dance! Dance! Dance!",
+        "trace": "Skill > Ultimate > Talent > Basic"
+    }
+    ,"Fugue": {
+        "stats": "<a:hastag:1526584349896736879> EHR : 67%\n<a:hastag:1526584349896736879> BE : 180% outside combat or above\n<a:hastag:1526584349896736879> SPD : Any SPD Breakpoint above 145\n<a:hastag:1526584349896736879> ERR : 19.4% (E2)",
+        "body": "EHR",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "BE% = ERR (E2)",
+        "relic": "<a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc)\n <a:hastag:1526584349896736879> Any Mixed 2pc BE Relics",
+        "ornament": "<a:hastag:1526584349896736879> Forge of the Kalpagni Lantern\n <a:hastag:1526584349896736879> Talia: Kingdom of Banditry ",
+        "lightcone": "<a:hastag:1526584349896736879> Long Road Leads Home (Signature)\n <a:hastag:1526584349896736879> Resolution Shines As Pearls",
+        "trace": "Talent = Skill > Ultimate > Basic"
+    }
+    ,"Topaz": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n<a:hastag:1526584349896736879> CR : 70% or above\n<a:hastag:1526584349896736879> CD : 140% or above\n<a:hastag:1526584349896736879> SPD : 134",
+        "body": "CR = CD",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> The Ashblazing Grand Duke (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Duran, Dynasty of Running Wolves\n <a:hastag:1526584349896736879> The Wondrous BananAmusement Park",
+        "lightcone": "<a:hastag:1526584349896736879> Worrisome, Blissful (Signature)\n <a:hastag:1526584349896736879> Cruising in the Stellar Sea\n <a:hastag:1526584349896736879> See You at the End\n <a:hastag:1526584349896736879> Swordplay",
+        "trace": "Skill = Talent > Ultimate > Basic"
+    }
+    ,"Trailblazer (Physical)": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2300 or above\n<a:hastag:1526584349896736879> CR : 70% or above\n<a:hastag:1526584349896736879> CD : 120% or above\n<a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134",
+        "body": "CR = CD",
+        "feet": "SPD = ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Rutilant Arena\n <a:hastag:1526584349896736879> Space Sealing Station",
+        "lightcone": "<a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> Under the Blue Sky\n <a:hastag:1526584349896736879> The Moles Welcome You",
+        "trace": "Ultimate > Skill = Talent > Basic"
+    }
+    ,"Trailblazer (Fire)": {
+        "stats": "<a:hastag:1526584349896736879> DEF : 2700 or above\n<a:hastag:1526584349896736879> SPD : 134+\n<a:hastag:1526584349896736879> EHR : 30% or above",
+        "body": "DEF%",
+        "feet": "SPD",
+        "planar sphere": "DEF%",
+        "link rope": "DEF%",
+        "relic": "<a:hastag:1526584349896736879> Self-Enshrouded Recluse  (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)\n <a:hastag:1526584349896736879> Fleet of the Ageless",
+        "lightcone": "<a:hastag:1526584349896736879> Moment of Victory (Gepard's Signature)\n <a:hastag:1526584349896736879> Landau's Choice\n <a:hastag:1526584349896736879> Journey, Forever Peaceful",
+        "trace": "Talent > Skill > Ultimate > Basic"
+    }
+    ,"Trailblazer (Harmony)": {
+        "stats": "<a:hastag:1526584349896736879> BE : 200% or above\n<a:hastag:1526584349896736879> SPD : 145 or above\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "HP% = DEF%",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "BE% = ERR",
+        "relic": "<a:hastag:1526584349896736879> Watchmaker, Master of Dream Machinations (4pc)\n <a:hastag:1526584349896736879> Iron Cavalry Against the Scourge (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Talia: Kingdom of Banditry\n <a:hastag:1526584349896736879> Forge of the Kalpagni Lantern",
+        "lightcone": "<a:hastag:1526584349896736879> In Pursuit of Wind \n <a:hastag:1526584349896736879> Memories of the Past",
+        "trace": "Ultimate > Talent > Skill > Basic"
+    }
+    ,"Trailblazer (Remembrance)": {
+        "stats": "<a:hastag:1526584349896736879> CD : 200% or above\n<a:hastag:1526584349896736879> SPD : 160 or above\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> World-Remaking Deliverer (4pc)\n <a:hastag:1526584349896736879> Any Mixed 2pc SPD Relics",
+        "ornament": "<a:hastag:1526584349896736879> Sprightly Vonwacq\n <a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)",
+        "lightcone": "<a:hastag:1526584349896736879> Fly Into a Pink Tomorrow\n <a:hastag:1526584349896736879> Memory's Curtain Never Falls",
+        "trace": "Memosprite Skill > Memosprite Talent > Talent > Ult = Skill = Basic"
+    }
+    ,"Trailblazer (Elation)": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2000 or above\n<a:hastag:1526584349896736879> CR : 50%\n<a:hastag:1526584349896736879> CD : 100%\n<a:hastag:1526584349896736879> SPD : 160 or above",
+        "body": "CR = ATK%",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF% = ATK%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Diviner of Distant Reach (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas\n <a:hastag:1526584349896736879> Sprightly Vonwacq",
+        "lightcone": "<a:hastag:1526584349896736879> Elation Brimming With Blessings\n <a:hastag:1526584349896736879> Mushy Shroomy's Adventures",
+        "trace": "Ultimate > Elation Skill = Talent > Basic = Skill"
+    }
+    ,"Tribbie": {
+        "stats": "Slow Tribbie\n <a:hastag:1526584349896736879> HP : 5000 or above\n<a:hastag:1526584349896736879> CR : 50% (With Poet)\n<a:hastag:1526584349896736879> CD : 150% or above\n <a:hastag:1526584349896736879> SPD : Base\n Fast Tribbie\n <a:hastag:1526584349896736879> HP : 5000 or above\n<a:hastag:1526584349896736879> SPD : 160 or above",
+        "body": "CR = CD",
+        "feet": "SPD (Fast Tribbie) = HP% (Slow Tribbie)",
+        "planar sphere": "HP%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Poet of Morning Collapse (4pc) Slow Tribbie\n<a:hastag:1526584349896736879> Eagle of Twilight Line (4pc) Fast Tribbie",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas\n <a:hastag:1526584349896736879> Sprightly Vonwacq",
+        "lightcone": "<a:hastag:1526584349896736879> If Time Were a Flower (Signature)\n <a:hastag:1526584349896736879> Dance! Dance! Dance!\n <a:hastag:1526584349896736879> Memories of the Past",
+        "trace": "Skill = Ultimate > Talent > Basic"
+    }
+    ,"Welt": {
+        "stats": "DPS Welt\n <a:hastag:1526584349896736879> ATK : 2400 or above\n<a:hastag:1526584349896736879> CR : 70% or above\n<a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134\n <a:hastag:1526584349896736879> EHR : 80% or above\n Support Welt\n <a:hastag:1526584349896736879> SPD : 160+\n <a:hastag:1526584349896736879> EHR : 80%",
+        "body": "CR = CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ERR as Support or ATK% as DPS",
+        "relic": "<a:hastag:1526584349896736879> Pioneer Diver of Dead Waters (4pc) as DPS\n<a:hastag:1526584349896736879> Eagle of Twilight (4pc) as Support",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas as Support\n <a:hastag:1526584349896736879> Pan-Cosmic Commercial Enterprise as DPS",
+        "lightcone": "<a:hastag:1526584349896736879> In the Name of the World (Signature)\n <a:hastag:1526584349896736879> Resolution Shines As Pearls as Support\n <a:hastag:1526584349896736879> Before the Tutorial Mission as Support\n <a:hastag:1526584349896736879> Holiday Thermae Escapade as DPS\n <a:hastag:1526584349896736879> Good Night and Sleep Well as DPS",
+        "trace": "Skill = Talent > Ultimate > Basic"
+    }
+    ,"Xueyi": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2200 or above\n<a:hastag:1526584349896736879> BE : 100% or above\n<a:hastag:1526584349896736879> CR : 60% or above\n<a:hastag:1526584349896736879> CD : 120% or above\n<a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134",
+        "body": "CR = CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus = ATK%",
+        "link rope": "BE%",
+        "relic": "<a:hastag:1526584349896736879> Genius of Brilliant Stars (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Talia: Kingdom of Banditry\n <a:hastag:1526584349896736879> Space Sealing Station",
+        "lightcone": "<a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> Indelible Promise",
+        "trace": "Talent > Ultimate = Skill > Basic"
+    }
+    ,"Yanqing": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 2500 or above\n<a:hastag:1526584349896736879> CR : 20%\n<a:hastag:1526584349896736879> CD : 170% or above\n<a:hastag:1526584349896736879> SPD : Base Speed (Hyperspeed Sparkle/Bronya/Sunday) or 134",
+        "body": "CD",
+        "feet": "SPD",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> Scholar Lost in Erudition (4pc)\n<a:hastag:1526584349896736879> The Wind-Soaring Valorous (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Firmament Frontline Glamoth\n <a:hastag:1526584349896736879> Inert Salsotto\n <a:hastag:1526584349896736879> Rutilant Arena",
+        "lightcone": "<a:hastag:1526584349896736879> Sleep Like the Dead (Signature)\n <a:hastag:1526584349896736879> See You at the End\n <a:hastag:1526584349896736879> Only Silence Remains",
+        "trace": "Ultimate = Talent > Skill > Basic"
+    }
+    ,"Yao Guang": {
+        "stats": "<a:hastag:1526584349896736879> CR : As close to 100%\n<a:hastag:1526584349896736879> CD : 90% or above\n<a:hastag:1526584349896736879> SPD : 160-200\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "CD = CR",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Diviner of Distant Reach (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas",
+        "lightcone": "<a:hastag:1526584349896736879> When She Decided to See (Signature)\n <a:hastag:1526584349896736879> Mushy Shroomy's Adventures\n <a:hastag:1526584349896736879> Today's Good Luck",
+        "trace": "Skill = Ultimate > Talent > Basic"
+    }
+    ,"Yukong": {
+        "stats": "<a:hastag:1526584349896736879> SPD : 1 or 2 SPD faster than DPS\n<a:hastag:1526584349896736879> ERR : 19.4%",
+        "body": "HP% = DEF%",
+        "feet": "SPD",
+        "planar sphere": "HP% = DEF%",
+        "link rope": "ERR",
+        "relic": "<a:hastag:1526584349896736879> Wastelander of Banditry Desert (4pc)\n <a:hastag:1526584349896736879> Any Mixed 2pc SPD Relics",
+        "ornament": "<a:hastag:1526584349896736879> Lushaka, the Sunken Seas\n <a:hastag:1526584349896736879> Broken Keel (Aim for 30% Effect Res)",
+        "lightcone": "<a:hastag:1526584349896736879> Memories of the Past\n <a:hastag:1526584349896736879> Dance! Dance! Dance!\n <a:hastag:1526584349896736879> Carve the Moon, Weave the Clouds",
+        "trace": "Skill = Ultimate > Talent = Basic"
+    }
+    ,"Yunli": {
+        "stats": "<a:hastag:1526584349896736879> ATK : 3000 or above\n<a:hastag:1526584349896736879> CR : 80% or above\n<a:hastag:1526584349896736879> CD : 120% or above",
+        "body": "CD = CR",
+        "feet": "ATK%",
+        "planar sphere": "DMG Bonus",
+        "link rope": "ATK%",
+        "relic": "<a:hastag:1526584349896736879> The Wind-Soaring Valorous (4pc)",
+        "ornament": "<a:hastag:1526584349896736879> Duran, Dynasty of Running Wolves\n <a:hastag:1526584349896736879> Inert Salsotto",
+        "lightcone": "<a:hastag:1526584349896736879> Dance at Sunset (Signature)\n <a:hastag:1526584349896736879> On the Fall of an Aeon\n <a:hastag:1526584349896736879> A Trail of Bygone Blood",
+        "trace": "Ultimate = Talent > Skill = Basic"
+    } 
+}
