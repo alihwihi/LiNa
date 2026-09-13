@@ -252,7 +252,7 @@
         "lightcone": "<a:hastag:1526584349896736879> Though Worlds Apart (Signature)\n <a:hastag:1526584349896736879> Journey, Forever Peaceful\n <a:hastag:1526584349896736879> Day One of My New Life\n <a:hastag:1526584349896736879>  Landau's Choice",
         "trace": "Skill = Ult = Talent > Basic"
     }
-    ,"Ratio": {
+    ,"Dr. Ratio": {
         "stats": "<a:hastag:1526584349896736879> ATK : 2600 or above\n<a:hastag:1526584349896736879> CR : 70% or above (Outside of combat)\n <a:hastag:1526584349896736879> CD : 160% or above (Outside of combat)\n<a:hastag:1526584349896736879> SPD : 134",
         "body": "CR = CD",
         "feet": "SPD = ATK%",
@@ -382,7 +382,7 @@
         "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone\n <a:hastag:1526584349896736879> After the Charmony Fall (SuperBreak Teams)\n <a:hastag:1526584349896736879> A Dream Scented in Wheat",
         "trace": "Ultimate > Talent = Skill > Basic"
     }
-    ,"Nova": {
+    ,"Himeko Nova": {
         "stats": "<a:hastag:1526584349896736879> ATK : 3000 or above\n <a:hastag:1526584349896736879> CR : As close to 100% in combat\n<a:hastag:1526584349896736879> CD : 120% or above\n <a:hastag:1526584349896736879> SPD : Base Speed",
         "body": "CR > CD",
         "feet": "ATK%",
@@ -612,6 +612,17 @@
         "ornament": "<a:hastag:1526584349896736879> Giant Tree of Rapt Brooding\n <a:hastag:1526584349896736879> Fleet of the Ageless",
         "lightcone": "<a:hastag:1526584349896736879> Any *5 Lightcone with HP Scaling\n <a:hastag:1526584349896736879> Post-Op Conversation\n <a:hastag:1526584349896736879> Warmth Shortens Cold Nights",
         "trace": "Ultimate > Skill > Talent > Basic"
+    }
+    ,"Pearl": {
+        "stats": "<a:hastag:1526584349896736879> \n<a:hastag:1526584349896736879> \n<a:hastag:1526584349896736879>",
+        "body": "",
+        "feet": "",
+        "planar sphere": "",
+        "link rope": "",
+        "relic": "<a:hastag:1526584349896736879>",
+        "ornament": "<a:hastag:1526584349896736879>\n <a:hastag:1526584349896736879>",
+        "lightcone": "<a:hastag:1526584349896736879>\n <a:hastag:1526584349896736879>",
+        "trace": ""
     }
     ,"Pela": {
         "stats": "<a:hastag:1526584349896736879> EHR : 67% or above\n<a:hastag:1526584349896736879> SPD : 134 / 143 / 160\n<a:hastag:1526584349896736879> ERR : 19.4%",

@@ -56,11 +56,11 @@ def get_local_character_info(char_id_str: str, nama_asli_relic: str) -> Any:
     if char_id_str == "1414":
         return get_stat_entry("DHPT")
     if char_id_str == "1512":
-            return get_stat_entry("summeretto")
+        return get_stat_entry("Robin Summeretto")
     if char_id_str == "1305":
-        return get_stat_entry("Ratio")
+        return get_stat_entry("Dr. Ratio")
     if char_id_str == "1510":
-        return get_stat_entry("Nova")
+        return get_stat_entry("Himeko Nova")
     if char_id_str == "1001":
         return get_stat_entry("March 7th")
     if char_id_str == "1224":
@@ -71,6 +71,8 @@ def get_local_character_info(char_id_str: str, nama_asli_relic: str) -> Any:
         return get_stat_entry("SW 99")
     if char_id_str == "1321":
         return get_stat_entry("The Dahlia")
+    if char_id_str == "1513":
+        return get_stat_entry("Aventurine Waveflair")
     if char_id_str == "1112":
         return get_stat_entry("Topaz")
     if char_id_str in ["8001", "8002"]:
